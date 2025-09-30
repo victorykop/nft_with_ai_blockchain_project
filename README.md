@@ -20,6 +20,4 @@ mint the NFTs at this endpoints
 6. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/6.json
 7. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/7.json
 8. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/8.json
-9. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/9.json
-10. https://ipfs.io/ipfs/QmS416JXfsW8kUJ5fcvabbaeabvd5g1n8pfnkt9Wk4pJLE/10.json
 
